@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-senior-s-html",
+    "build": "vite build --base=/bc_74_mrmantikor/",
     "preview": "vite preview"
   },
   "devDependencies": {
